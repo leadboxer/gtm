@@ -1,0 +1,5 @@
+homepage: "https://www.leadboxer.com"
+documentation: "https://help.leadboxer.com"
+versions:
+  - sha: 
+    changeNotes: Initial release.
