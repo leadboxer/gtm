@@ -1,5 +1,5 @@
 homepage: "https://www.leadboxer.com"
 documentation: "https://help.leadboxer.com"
 versions:
-  - sha: 6f5a1f76b7ef9a5f4ef16c41ce6ff36c11e0c987
+  - sha: 97cacd2a4fd05a82affcb7f95d7aa84ec9edc123
     changeNotes: Initial release.
