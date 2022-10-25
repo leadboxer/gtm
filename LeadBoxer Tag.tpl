@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "categories": ["LEAD_GENERATION", "MARKETING", "SALES"],
   "securityGroups": [],
-  "displayName": "Lead Pixel",
+  "displayName": "LeadBoxer Tag",
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
